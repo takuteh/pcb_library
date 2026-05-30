@@ -9,10 +9,13 @@
   - DO35-7 
 - RESISTOR
   - R-207/10
-
+- LED
+  
 ## GPIO
 - Raspberry Pi
 - M5Stack
+- ESP32 Super mini
+- Arduino
   
 ## JST_CONNECTOR
 - ZH (2,3,4,5,6)
